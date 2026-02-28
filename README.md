@@ -18,4 +18,4 @@ Esta é uma reformulação de design proposta para a nova versão do site. A sol
 
 <br>
 
-![Image](https://github.com/user-attachments/assets/39187820-63b0-4178-a0e9-ccc16d93df88)
+![Image](https://github.com/user-attachments/assets/35aa4621-5fcf-4a06-a81e-bcc2e4df01d1)
