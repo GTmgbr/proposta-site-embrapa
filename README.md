@@ -8,3 +8,5 @@ O Centro de Inteligência do Leite desenvolve estudos estratégicos sobre a cade
 ![Image](https://github.com/user-attachments/assets/75d2b1dd-59f5-40ef-bb0d-195cface0c64)
 
 ![Image](https://github.com/user-attachments/assets/ff42b0e5-4b9a-4e6a-9908-1ba8f349ddf3)
+
+![Image](https://github.com/user-attachments/assets/39187820-63b0-4178-a0e9-ccc16d93df88)
