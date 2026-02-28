@@ -5,7 +5,7 @@ O Centro de Inteligência do Leite desenvolve estudos estratégicos sobre a cade
 Esta é uma reformulação de design proposta para a nova versão do site. A solução de design foi criada através da plataforma Figma. 
 
 
-![Image](https://github.com/user-attachments/assets/4f12f402-2e6e-4767-a69f-1d11ad5ec94b)
+![Image](https://github.com/user-attachments/assets/8d653d82-2dbf-4e4c-8f76-f7c959489bb9)
 
 ![Image](https://github.com/user-attachments/assets/75d2b1dd-59f5-40ef-bb0d-195cface0c64)
 
