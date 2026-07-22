@@ -13,7 +13,7 @@ Além das ferramentas principais, foram utilizados os seguintes plugins:
 - **Post Tags and Categories for Pages:** adiciona suporte a Categorias e Tags em páginas do WordPress, permitindo organizar e classificar as subpáginas por taxonomias, facilitando sua gestão e filtragem.
 - **wpDiscuz:** implementação de um sistema avançado de comentários com interface moderna, carregamento via AJAX, login social, avaliações e anexos de mídia.
 - **Dashicons:** biblioteca oficial de ícones do WordPress utilizada na interface do site.
-- **Hello Elementor Child:** tema filho utilizado para realizar personalizações sem comprometer futuras atualizações do tema principal.
+
 
 Esta é uma reformulação de design proposta para a nova versão do site. As screenshots são do design inicial, que foi criado através da plataforma Figma. 
 
