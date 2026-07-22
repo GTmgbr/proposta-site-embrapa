@@ -2,7 +2,20 @@
 
 O Centro de Inteligência do Leite desenvolve estudos estratégicos sobre a cadeia produtiva do leite, com foco em competitividade, inteligência de mercado, tendências e análise econômica dos sistemas de produção nacional.
 
-Esta é uma reformulação de design proposta para a nova versão do site. A solução de design foi criada através da plataforma Figma. 
+## Tecnologias e Plugins Utilizados
+
+O site foi desenvolvido utilizando **WordPress** como Sistema de Gerenciamento de Conteúdo (CMS) e **Elementor Pro** para a construção visual das páginas. As personalizações do tema foram realizadas por meio de um **Hello Elementor Child**, garantindo que as modificações fossem preservadas durante futuras atualizações.
+
+Além das ferramentas principais, foram utilizados os seguintes plugins:
+
+- **Elementor Pro:** criação de páginas e personalização de templates, cabeçalho e rodapé por meio do Theme Builder.
+- **Accessible Poetry:** implementação de recursos de acessibilidade, como ajustes de contraste, tamanho da fonte e espaçamento de texto.
+- **Post Tags and Categories for Pages:** adiciona suporte a **Categorias** e **Tags** em páginas do WordPress, permitindo organizar e classificar as subpáginas por taxonomias, facilitando sua gestão e filtragem.
+- **wpDiscuz:** implementação de um sistema avançado de comentários com interface moderna, carregamento via AJAX, login social, avaliações e anexos de mídia.
+- **Dashicons:** biblioteca oficial de ícones do WordPress utilizada na interface do site.
+- **Hello Elementor Child:** tema filho utilizado para realizar personalizações sem comprometer futuras atualizações do tema principal.
+
+Esta é uma reformulação de design proposta para a nova versão do site. As screenshots são do design inicial, que foi criado através da plataforma Figma. 
 
 <br>
 
