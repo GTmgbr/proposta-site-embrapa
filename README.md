@@ -4,7 +4,7 @@ O Centro de Inteligência do Leite desenvolve estudos estratégicos sobre a cade
 
 ## Tecnologias e Plugins Utilizados
 
-O site foi desenvolvido utilizando WordPress como Sistema de Gerenciamento de Conteúdo (CMS) e Elementor Pro para a construção visual das páginas. As personalizações do tema foram realizadas por meio de um Hello Elementor Child, garantindo que as modificações fossem preservadas durante futuras atualizações.
+O site foi desenvolvido utilizando **WordPress** como Sistema de Gerenciamento de Conteúdo (CMS), **Elementor Pro** para a construção visual das páginas e **phpMyAdmin** para o gerenciamento e administração do banco de dados MySQL. As personalizações do tema foram realizadas por meio de um Hello Elementor Child, garantindo que as modificações fossem preservadas durante futuras atualizações.
 
 Além das ferramentas principais, foram utilizados os seguintes plugins:
 
