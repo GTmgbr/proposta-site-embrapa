@@ -15,7 +15,7 @@ Além das ferramentas principais, foram utilizados os seguintes plugins:
 - **Dashicons:** biblioteca oficial de ícones do WordPress utilizada na interface do site.
 
 
-Esta é uma reformulação de design proposta para a nova versão do site. As screenshots são do design inicial, que foi criado através da plataforma Figma. 
+Esta é uma reformulação de design proposta para a nova versão do site. As screenshots são do design inicial, que foi criado através da plataforma Figma: 
 
 <br>
 
